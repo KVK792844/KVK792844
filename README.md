@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @KVK792844
+- 👀 I’m interested in learning to automate boring tasks
+- 🌱 I’m currently learning python
